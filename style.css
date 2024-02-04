@@ -1,0 +1,37 @@
+#nav{
+    display:flex;
+    justify-content: space-between;
+    position: sticky;
+    flex-wrap:wrap;
+    
+    }
+    .links{
+        margin-top:20px;  
+         }
+.links>a{
+    text-decoration: none;
+    padding:20px;
+    font-size:20px ;
+    color:grey;
+    text-align: center;
+    
+    }
+    .icons>i{
+        padding:20px;
+    }
+
+    #poster{
+        width:1450px;
+        height:500px;
+        background-color: pink;
+        border-radius: 20px;
+        margin:30px;
+        display:flex;
+        justify-content: space-between;
+        align-items: center;
+        flex-wrap:wrap;
+    }
+  .text{
+    margin-left:150px;
+
+  }
